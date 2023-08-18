@@ -40,7 +40,6 @@ com.refinedmods.refinedstorage2.platform.api.network.node.externalstorage
 com.refinedmods.refinedstorage2.platform.api.network.node.importer
 com.refinedmods.refinedstorage2.platform.api.registry
 com.refinedmods.refinedstorage2.platform.api.resource
-com.refinedmods.refinedstorage2.platform.api.resource.filter
 com.refinedmods.refinedstorage2.platform.api.resource.list
 com.refinedmods.refinedstorage2.platform.api.storage
 com.refinedmods.refinedstorage2.platform.api.storage.channel
