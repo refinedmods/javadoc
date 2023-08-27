@@ -2,8 +2,8 @@ com.refinedmods.refinedstorage2.api.core
 com.refinedmods.refinedstorage2.api.core.component
 com.refinedmods.refinedstorage2.api.core.filter
 com.refinedmods.refinedstorage2.api.grid
+com.refinedmods.refinedstorage2.api.grid.operations
 com.refinedmods.refinedstorage2.api.grid.query
-com.refinedmods.refinedstorage2.api.grid.service
 com.refinedmods.refinedstorage2.api.grid.view
 com.refinedmods.refinedstorage2.api.network
 com.refinedmods.refinedstorage2.api.network.component
@@ -30,6 +30,7 @@ com.refinedmods.refinedstorage2.platform.api
 com.refinedmods.refinedstorage2.platform.api.blockentity
 com.refinedmods.refinedstorage2.platform.api.blockentity.constructor
 com.refinedmods.refinedstorage2.platform.api.blockentity.destructor
+com.refinedmods.refinedstorage2.platform.api.blockentity.wirelesstransmitter
 com.refinedmods.refinedstorage2.platform.api.grid
 com.refinedmods.refinedstorage2.platform.api.integration.recipemod
 com.refinedmods.refinedstorage2.platform.api.item
