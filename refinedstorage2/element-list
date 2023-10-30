@@ -30,6 +30,7 @@ com.refinedmods.refinedstorage2.platform.api
 com.refinedmods.refinedstorage2.platform.api.blockentity
 com.refinedmods.refinedstorage2.platform.api.blockentity.constructor
 com.refinedmods.refinedstorage2.platform.api.blockentity.destructor
+com.refinedmods.refinedstorage2.platform.api.blockentity.storagemonitor
 com.refinedmods.refinedstorage2.platform.api.blockentity.wirelesstransmitter
 com.refinedmods.refinedstorage2.platform.api.grid
 com.refinedmods.refinedstorage2.platform.api.integration.recipemod
