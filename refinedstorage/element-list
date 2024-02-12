@@ -55,7 +55,6 @@ com.refinedmods.refinedstorage.blockentity.craftingmonitor
 com.refinedmods.refinedstorage.blockentity.data
 com.refinedmods.refinedstorage.blockentity.grid
 com.refinedmods.refinedstorage.blockentity.grid.portable
-com.refinedmods.refinedstorage.capability
 com.refinedmods.refinedstorage.command.disk
 com.refinedmods.refinedstorage.command.network
 com.refinedmods.refinedstorage.command.network.autocrafting
@@ -82,7 +81,6 @@ com.refinedmods.refinedstorage.inventory.listener
 com.refinedmods.refinedstorage.inventory.player
 com.refinedmods.refinedstorage.item
 com.refinedmods.refinedstorage.item.blockitem
-com.refinedmods.refinedstorage.item.capabilityprovider
 com.refinedmods.refinedstorage.item.property
 com.refinedmods.refinedstorage.loottable
 com.refinedmods.refinedstorage.network
