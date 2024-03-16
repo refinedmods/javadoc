@@ -1,6 +1,5 @@
 com.refinedmods.refinedstorage2.api.core
 com.refinedmods.refinedstorage2.api.core.component
-com.refinedmods.refinedstorage2.api.core.filter
 com.refinedmods.refinedstorage2.api.grid.operations
 com.refinedmods.refinedstorage2.api.grid.query
 com.refinedmods.refinedstorage2.api.grid.view
@@ -15,6 +14,7 @@ com.refinedmods.refinedstorage2.api.network.node.externalstorage
 com.refinedmods.refinedstorage2.api.network.node.importer
 com.refinedmods.refinedstorage2.api.network.node.task
 com.refinedmods.refinedstorage2.api.resource
+com.refinedmods.refinedstorage2.api.resource.filter
 com.refinedmods.refinedstorage2.api.resource.list
 com.refinedmods.refinedstorage2.api.resource.list.listenable
 com.refinedmods.refinedstorage2.api.storage
