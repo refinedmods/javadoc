@@ -5,7 +5,6 @@ com.refinedmods.refinedstorage2.api.grid.query
 com.refinedmods.refinedstorage2.api.grid.view
 com.refinedmods.refinedstorage2.api.grid.watcher
 com.refinedmods.refinedstorage2.api.network
-com.refinedmods.refinedstorage2.api.network.component
 com.refinedmods.refinedstorage2.api.network.energy
 com.refinedmods.refinedstorage2.api.network.node
 com.refinedmods.refinedstorage2.api.network.node.container
@@ -13,6 +12,8 @@ com.refinedmods.refinedstorage2.api.network.node.exporter
 com.refinedmods.refinedstorage2.api.network.node.externalstorage
 com.refinedmods.refinedstorage2.api.network.node.importer
 com.refinedmods.refinedstorage2.api.network.node.task
+com.refinedmods.refinedstorage2.api.network.security
+com.refinedmods.refinedstorage2.api.network.storage
 com.refinedmods.refinedstorage2.api.resource
 com.refinedmods.refinedstorage2.api.resource.filter
 com.refinedmods.refinedstorage2.api.resource.list
@@ -35,6 +36,7 @@ com.refinedmods.refinedstorage2.platform.api.grid.strategy
 com.refinedmods.refinedstorage2.platform.api.grid.view
 com.refinedmods.refinedstorage2.platform.api.importer
 com.refinedmods.refinedstorage2.platform.api.recipemod
+com.refinedmods.refinedstorage2.platform.api.security
 com.refinedmods.refinedstorage2.platform.api.storage
 com.refinedmods.refinedstorage2.platform.api.storage.channel
 com.refinedmods.refinedstorage2.platform.api.storage.externalstorage
