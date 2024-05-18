@@ -25,8 +25,8 @@ com.refinedmods.refinedstorage2.api.storage.external
 com.refinedmods.refinedstorage2.api.storage.limited
 com.refinedmods.refinedstorage2.api.storage.tracked
 com.refinedmods.refinedstorage2.network.test
+com.refinedmods.refinedstorage2.network.test.fake
 com.refinedmods.refinedstorage2.network.test.nodefactory
-com.refinedmods.refinedstorage2.network.test.util
 com.refinedmods.refinedstorage2.platform.api
 com.refinedmods.refinedstorage2.platform.api.configurationcard
 com.refinedmods.refinedstorage2.platform.api.constructordestructor
