@@ -35,7 +35,6 @@ com.refinedmods.refinedstorage2.platform.api.grid
 com.refinedmods.refinedstorage2.platform.api.grid.strategy
 com.refinedmods.refinedstorage2.platform.api.grid.view
 com.refinedmods.refinedstorage2.platform.api.importer
-com.refinedmods.refinedstorage2.platform.api.recipemod
 com.refinedmods.refinedstorage2.platform.api.security
 com.refinedmods.refinedstorage2.platform.api.storage
 com.refinedmods.refinedstorage2.platform.api.storage.channel
