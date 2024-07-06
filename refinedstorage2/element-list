@@ -47,6 +47,7 @@ com.refinedmods.refinedstorage.platform.api.support.network.bounditem
 com.refinedmods.refinedstorage.platform.api.support.registry
 com.refinedmods.refinedstorage.platform.api.support.resource
 com.refinedmods.refinedstorage.platform.api.support.resource.list
+com.refinedmods.refinedstorage.platform.api.support.slotreference
 com.refinedmods.refinedstorage.platform.api.upgrade
 com.refinedmods.refinedstorage.platform.api.wirelesstransmitter
 com.refinedmods.refinedstorage.query.lexer
