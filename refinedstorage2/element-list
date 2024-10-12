@@ -1,3 +1,4 @@
+com.refinedmods.refinedstorage.api.autocrafting
 com.refinedmods.refinedstorage.api.core
 com.refinedmods.refinedstorage.api.core.component
 com.refinedmods.refinedstorage.api.grid.operations
@@ -5,13 +6,13 @@ com.refinedmods.refinedstorage.api.grid.query
 com.refinedmods.refinedstorage.api.grid.view
 com.refinedmods.refinedstorage.api.grid.watcher
 com.refinedmods.refinedstorage.api.network
+com.refinedmods.refinedstorage.api.network.autocrafting
 com.refinedmods.refinedstorage.api.network.energy
 com.refinedmods.refinedstorage.api.network.node
 com.refinedmods.refinedstorage.api.network.node.container
 com.refinedmods.refinedstorage.api.network.node.exporter
 com.refinedmods.refinedstorage.api.network.node.externalstorage
 com.refinedmods.refinedstorage.api.network.node.importer
-com.refinedmods.refinedstorage.api.network.node.task
 com.refinedmods.refinedstorage.api.network.security
 com.refinedmods.refinedstorage.api.network.storage
 com.refinedmods.refinedstorage.api.resource
@@ -50,6 +51,7 @@ com.refinedmods.refinedstorage.common.api.support.slotreference
 com.refinedmods.refinedstorage.common.api.upgrade
 com.refinedmods.refinedstorage.common.api.wirelesstransmitter
 com.refinedmods.refinedstorage.common.autocrafting
+com.refinedmods.refinedstorage.common.autocrafting.preview
 com.refinedmods.refinedstorage.common.configurationcard
 com.refinedmods.refinedstorage.common.constructordestructor
 com.refinedmods.refinedstorage.common.content
@@ -96,7 +98,7 @@ com.refinedmods.refinedstorage.common.support.widget
 com.refinedmods.refinedstorage.common.upgrade
 com.refinedmods.refinedstorage.common.util
 com.refinedmods.refinedstorage.network.test
-com.refinedmods.refinedstorage.network.test.fake
+com.refinedmods.refinedstorage.network.test.fixtures
 com.refinedmods.refinedstorage.network.test.nodefactory
 com.refinedmods.refinedstorage.query.lexer
 com.refinedmods.refinedstorage.query.parser
