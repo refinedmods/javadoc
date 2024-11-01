@@ -51,6 +51,9 @@ com.refinedmods.refinedstorage.common.api.support.slotreference
 com.refinedmods.refinedstorage.common.api.upgrade
 com.refinedmods.refinedstorage.common.api.wirelesstransmitter
 com.refinedmods.refinedstorage.common.autocrafting
+com.refinedmods.refinedstorage.common.autocrafting.autocrafter
+com.refinedmods.refinedstorage.common.autocrafting.autocraftermanager
+com.refinedmods.refinedstorage.common.autocrafting.patterngrid
 com.refinedmods.refinedstorage.common.autocrafting.preview
 com.refinedmods.refinedstorage.common.configurationcard
 com.refinedmods.refinedstorage.common.constructordestructor
