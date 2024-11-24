@@ -1,4 +1,6 @@
 com.refinedmods.refinedstorage.api.autocrafting
+com.refinedmods.refinedstorage.api.autocrafting.preview
+com.refinedmods.refinedstorage.api.autocrafting.status
 com.refinedmods.refinedstorage.api.core
 com.refinedmods.refinedstorage.api.core.component
 com.refinedmods.refinedstorage.api.grid.operations
@@ -53,6 +55,7 @@ com.refinedmods.refinedstorage.common.api.wirelesstransmitter
 com.refinedmods.refinedstorage.common.autocrafting
 com.refinedmods.refinedstorage.common.autocrafting.autocrafter
 com.refinedmods.refinedstorage.common.autocrafting.autocraftermanager
+com.refinedmods.refinedstorage.common.autocrafting.monitor
 com.refinedmods.refinedstorage.common.autocrafting.patterngrid
 com.refinedmods.refinedstorage.common.autocrafting.preview
 com.refinedmods.refinedstorage.common.configurationcard
