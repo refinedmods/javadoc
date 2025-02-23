@@ -89,6 +89,7 @@ com.refinedmods.refinedstorage.common.support.amount
 com.refinedmods.refinedstorage.common.support.containermenu
 com.refinedmods.refinedstorage.common.support.direction
 com.refinedmods.refinedstorage.common.support.energy
+com.refinedmods.refinedstorage.common.support.exportingindicator
 com.refinedmods.refinedstorage.common.support.network
 com.refinedmods.refinedstorage.common.support.network.component
 com.refinedmods.refinedstorage.common.support.network.item
