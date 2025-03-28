@@ -5,17 +5,13 @@ com.refinedmods.refinedstorage.api.autocrafting.status
 com.refinedmods.refinedstorage.api.autocrafting.task
 com.refinedmods.refinedstorage.api.core
 com.refinedmods.refinedstorage.api.core.component
-com.refinedmods.refinedstorage.api.grid.operations
-com.refinedmods.refinedstorage.api.grid.query
-com.refinedmods.refinedstorage.api.grid.view
-com.refinedmods.refinedstorage.api.grid.watcher
 com.refinedmods.refinedstorage.api.network
 com.refinedmods.refinedstorage.api.network.autocrafting
 com.refinedmods.refinedstorage.api.network.energy
 com.refinedmods.refinedstorage.api.network.node
 com.refinedmods.refinedstorage.api.network.node.container
 com.refinedmods.refinedstorage.api.network.node.exporter
-com.refinedmods.refinedstorage.api.network.node.externalstorage
+com.refinedmods.refinedstorage.api.network.node.grid
 com.refinedmods.refinedstorage.api.network.node.importer
 com.refinedmods.refinedstorage.api.network.security
 com.refinedmods.refinedstorage.api.network.storage
@@ -23,6 +19,7 @@ com.refinedmods.refinedstorage.api.resource
 com.refinedmods.refinedstorage.api.resource.filter
 com.refinedmods.refinedstorage.api.resource.list
 com.refinedmods.refinedstorage.api.resource.list.listenable
+com.refinedmods.refinedstorage.api.resource.repository
 com.refinedmods.refinedstorage.api.storage
 com.refinedmods.refinedstorage.api.storage.composite
 com.refinedmods.refinedstorage.api.storage.external
@@ -67,6 +64,7 @@ com.refinedmods.refinedstorage.common.controller
 com.refinedmods.refinedstorage.common.detector
 com.refinedmods.refinedstorage.common.exporter
 com.refinedmods.refinedstorage.common.grid
+com.refinedmods.refinedstorage.common.grid.query
 com.refinedmods.refinedstorage.common.grid.screen
 com.refinedmods.refinedstorage.common.grid.screen.hint
 com.refinedmods.refinedstorage.common.grid.strategy
