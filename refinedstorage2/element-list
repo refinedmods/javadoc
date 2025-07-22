@@ -1,5 +1,6 @@
 com.refinedmods.refinedstorage.api.autocrafting
 com.refinedmods.refinedstorage.api.autocrafting.calculation
+com.refinedmods.refinedstorage.api.autocrafting.craftability
 com.refinedmods.refinedstorage.api.autocrafting.preview
 com.refinedmods.refinedstorage.api.autocrafting.status
 com.refinedmods.refinedstorage.api.autocrafting.task
