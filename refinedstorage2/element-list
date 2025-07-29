@@ -74,6 +74,12 @@ com.refinedmods.refinedstorage.common.iface
 com.refinedmods.refinedstorage.common.importer
 com.refinedmods.refinedstorage.common.misc
 com.refinedmods.refinedstorage.common.networking
+com.refinedmods.refinedstorage.common.repackage.org.abego.treelayout
+com.refinedmods.refinedstorage.common.repackage.org.abego.treelayout.internal.util
+com.refinedmods.refinedstorage.common.repackage.org.abego.treelayout.internal.util.java.lang
+com.refinedmods.refinedstorage.common.repackage.org.abego.treelayout.internal.util.java.lang.string
+com.refinedmods.refinedstorage.common.repackage.org.abego.treelayout.internal.util.java.util
+com.refinedmods.refinedstorage.common.repackage.org.abego.treelayout.util
 com.refinedmods.refinedstorage.common.security
 com.refinedmods.refinedstorage.common.storage
 com.refinedmods.refinedstorage.common.storage.diskdrive
