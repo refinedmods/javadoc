@@ -67,9 +67,11 @@ com.refinedmods.refinedstorage.common.exporter
 com.refinedmods.refinedstorage.common.grid
 com.refinedmods.refinedstorage.common.grid.query
 com.refinedmods.refinedstorage.common.grid.screen
+com.refinedmods.refinedstorage.common.grid.screen.autocrafting
 com.refinedmods.refinedstorage.common.grid.screen.hint
 com.refinedmods.refinedstorage.common.grid.strategy
 com.refinedmods.refinedstorage.common.grid.view
+com.refinedmods.refinedstorage.common.grid.view.pin
 com.refinedmods.refinedstorage.common.iface
 com.refinedmods.refinedstorage.common.importer
 com.refinedmods.refinedstorage.common.misc
